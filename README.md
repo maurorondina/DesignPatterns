@@ -1,4 +1,4 @@
-# DesignPatterns
+# Design Patterns Overview
 
 This repository contains C# code examples demonstrating various design patterns. It serves as a practical guide for studying and understanding design patterns in software development.
 
